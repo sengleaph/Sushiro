@@ -1,6 +1,6 @@
 # sushi
 
-A new Flutter project.
+For Someone here
 
 ## Getting Started
 
